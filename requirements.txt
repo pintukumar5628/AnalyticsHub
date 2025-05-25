@@ -1,0 +1,7 @@
+# import libraries
+pandas 
+numpy 
+seaborn 
+matplotlib
+plotly
+streamlit 
