@@ -1,7 +1,6 @@
 
 
-                                                            ## AnalytixHub : A Data Analytics Potal
-
+  ###### AnalytixHub : A Data Analytics Potal
 
 
 
