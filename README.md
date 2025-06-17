@@ -6,7 +6,7 @@
 
 ### Try it here : [Click Here](https://analytics-potal.streamlit.app/)
 
-- Data Files accepted by [DataIQ](https://analytics-potal.streamlit.app/) is csv and excel
+- Data Files accepted by [AnalytixHub](https://analytics-potal.streamlit.app/) is csv and excel
 
 - Features :
   -   Explore your data (Summary)
