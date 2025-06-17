@@ -1,7 +1,7 @@
 #AnalytixHub : A Data Analytics Potal
 
 
-![image](https://github.com/user-attachments/assets/327e4b8f-2cc8-403b-a5d3-3e4ba675034b)
+![image](![image](https://github.com/user-attachments/assets/3cf02883-2747-40ad-831c-17125c06d7c6)
 
 
 ### Try it here : [Click Here](https://analytics-potal.streamlit.app/)
