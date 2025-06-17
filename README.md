@@ -1,12 +1,9 @@
-#AnalytixHub : A Data Analytics Potal
 
 
   (![image](https://github.com/user-attachments/assets/3cf02883-2747-40ad-831c-17125c06d7c6)
 
   
   [image](https://github.com/user-attachments/assets/8a3cf816-eb27-4560-b8cb-ca5e31f1177a)
-
-
 
 
 
